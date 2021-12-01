@@ -1,0 +1,12 @@
+# Project exclude paths
+/.gradle/
+/Desktop Calculator/task/build/
+/Desktop Calculator/task/out/production/classes/
+/Topics/Fields and methods in enum/Danger levels/out/
+/Topics/Fields and methods in enum/Danger levels/out/production/classes/
+/Topics/Fields and methods in enum/Robot control/out/
+/Topics/Fields and methods in enum/Robot control/out/production/classes/
+/Topics/Fields and methods in enum/System of units/out/
+/Topics/Fields and methods in enum/System of units/out/production/classes/
+/Topics/Fields and methods in enum/Theory/out/
+/Topics/Fields and methods in enum/Theory/out/production/classes/
